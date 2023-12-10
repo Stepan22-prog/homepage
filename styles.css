@@ -279,3 +279,10 @@ body .my-resume {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.links-to-resume__header {
+    color: var(--secondary-text-color);
+}
+.links-to-resume__link {
+    color: var(--text-decoration-color);
+}
